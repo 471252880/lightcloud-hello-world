@@ -1,0 +1,24 @@
+{
+  "name": "lightcloud-hello-world",
+  "version": "1.0.0",
+  "description": "Hello world API for a Light Cloud test deploy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
